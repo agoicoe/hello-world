@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Greetings!
+
+I seek clarity in life!
